@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^4.0.7"
+  },
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "formik": "^2.4.6",
+    "yup": "^1.6.1"
+  }
+}
